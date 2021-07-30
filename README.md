@@ -1,5 +1,5 @@
 # pritbor
 
 ## Wordpress site
-![first page](./images/wp.png)
+![first page](images/wp.png)
 
