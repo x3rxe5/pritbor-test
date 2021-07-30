@@ -9,43 +9,46 @@ const settings = {
   },
   "packages": [
     {
-      "name": "@frontity/mars-theme",
-      "state": {
-        "theme": {
-          "menu": [
-            [
-              "Home",
-              "/"
-            ],
-            [
-              "Nature",
-              "/category/nature/"
-            ],
-            [
-              "Travel",
-              "/category/travel/"
-            ],
-            [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Us",
-              "/about-us/"
-            ]
-          ],
-          "featured": {
-            "showOnList": false,
-            "showOnPost": false
-          }
-        }
-      }
+      "name":"pritbor-test"
     },
+    // {
+    //   "name": "@frontity/mars-theme",
+    //   "state": {
+    //     "theme": {
+    //       "menu": [
+    //         [
+    //           "Home",
+    //           "/"
+    //         ],
+    //         [
+    //           "Nature",
+    //           "/category/nature/"
+    //         ],
+    //         [
+    //           "Travel",
+    //           "/category/travel/"
+    //         ],
+    //         [
+    //           "Japan",
+    //           "/tag/japan/"
+    //         ],
+    //         [
+    //           "About Us",
+    //           "/about-us/"
+    //         ]
+    //       ],
+    //       "featured": {
+    //         "showOnList": false,
+    //         "showOnPost": false
+    //       }
+    //     }
+    //   }
+    // },
     {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "http://localhost:80"
         }
       }
     },
