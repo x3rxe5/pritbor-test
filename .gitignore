@@ -21,6 +21,7 @@ lib-cov
 # Dependency directories
 node_modules/
 jspm_packages/
+packages/mars-theme/
 
 # TypeScript cache
 *.tsbuildinfo
